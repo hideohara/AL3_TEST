@@ -2,6 +2,8 @@
 #include "TextureManager.h"
 #include <cassert>
 
+// 1_stage
+
 GameScene::GameScene() {}
 
 GameScene::~GameScene() {}
